@@ -1,0 +1,2 @@
+FLASK_APP=excuses
+FLASK_ENV=development
